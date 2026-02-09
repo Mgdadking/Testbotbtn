@@ -1,0 +1,31 @@
+{
+  "users": {
+    "6285600793871": {
+      "total_pengeluaran": 10,
+      "total_produk": 2,
+      "produk": {
+        "sopi": 1,
+        "tokped": 1
+      }
+    },
+    "6285600793871@s.whatsapp.net": {
+      "total_pengeluaran": 10,
+      "total_produk_dibeli": 2,
+      "produk": {
+        "sopi": 1,
+        "tokped": 1
+      }
+    }
+  },
+  "mutasi": {
+    "2026-01-16": {
+      "total_produk_terjual": 4,
+      "total_pendapatan": 20,
+      "total_fee": 2,
+      "produk": {
+        "sopi": 2,
+        "tokped": 2
+      }
+    }
+  }
+}
