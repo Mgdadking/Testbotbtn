@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "product": "spotify",
+      "qty": 1,
+      "price": 15
+    },
+    {
+      "product": "netflix",
+      "qty": 1,
+      "price": 10
+    }
+  ],
+  "updated_at": 1768537227821
+}

@@ -1,0 +1,15 @@
+{
+  "harga": 10,
+  "items": [
+    {
+      "email": "acc2",
+      "password": "pass2",
+      "created_at": "2026-01-16T04:19:58.877Z"
+    },
+    {
+      "email": "acc3",
+      "password": "pass3",
+      "created_at": "2026-01-16T04:20:21.894Z"
+    }
+  ]
+}
